@@ -1,3 +1,7 @@
+# Digimon Advance
+
+This is a fan-made hack using [pokeemerald-expansion](https://github.com/rh-hideout/pokeemerald-expansion) as a base to completely overhaul Pokemon Emerald into a unqiue Digimon Story-like game for the Game Boy Advance.
+
 # pokeemerald-expansion
 
 ## What is pokeemerald-expansion?
